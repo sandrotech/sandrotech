@@ -160,8 +160,9 @@
 <h3> 👨‍: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de sistemas** no <a href="link da sua faculdade">Faculdade Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor** na <a href="https://github.com/hpcardio">Hospital Prontocardio</a>
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="link da sua faculdade">Faculdade Estácio de Sá</a>.
+- 🎓 &nbsp; Atualmente cursando **MBA em Inteligência Artificial**.
+- 💼 &nbsp; Trabalhando como **Assessor Técnico II** na <a href="link da FAGIFOR">FAGIFOR</a>.
 
 <p align="left">
   Linguagens e Ferramentas:  <br> <strong><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
