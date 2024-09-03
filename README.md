@@ -12,14 +12,12 @@
 
 
 	
-##**Sobre mim**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre Mim</b>
 <br>
 
 - Apaixonado por programar em python 🐍
 - Pratico esportes em meio a tempo livre🚴‍♀️
-- Atualmente aprendendo Desenvolvimento Mobile por conta própria
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- Atualmente trabalho com equipe de desenvolvimento, web e mobile
+- Atualmente aprendendo Desenvolvimento voltado para area hospitalar
 
 <br><br>
 
