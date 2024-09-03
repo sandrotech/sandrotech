@@ -12,10 +12,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
-
-<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.flaticon.com/free-icon/myself_10012487)" width = 250px></picture>
-
+##**Sobre mim**
 <br>
 
 - Apaixonado por programar em python 🐍
